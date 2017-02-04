@@ -1,0 +1,2 @@
+
+(company-dart :fetcher github :repo "sid-kurias/company-dart")
